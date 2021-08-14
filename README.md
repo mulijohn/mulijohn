@@ -1,2 +1,4 @@
 # mulijohn
-junior spftwatre developer / self taught and much interested in current tech 
+junior software developer / self taught.
+much interested in current tech.
+team player( always loving a team coding experience)
